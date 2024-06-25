@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://gmail-server-d4jw.onrender.com';
+const url = 'https://gmail-server-ytl4.onrender.com';
 const headers = (token) => ({
   headers: {
     'Content-Type': 'application/json',
